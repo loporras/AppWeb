@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AppWeb"
+    }
+  },
+  "defaultProject": "AppWeb",
+  "cli": {
+    "analytics": "c53c02de-fa5b-4ade-8e47-c8b2ab3acefc"
+  }
 }

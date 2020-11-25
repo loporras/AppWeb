@@ -1,0 +1,4 @@
++ jquery@3.5.1
+added 1 package from 1 contributor and audited 1500 packages in 11.758s
+found 1 high severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
